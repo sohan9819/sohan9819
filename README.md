@@ -3,7 +3,7 @@
 
 ![2021-06-04 23-15-30_Trim](https://user-images.githubusercontent.com/64985447/120843980-62495b00-c58c-11eb-81af-0255b7391495.gif)
 
-Portfolio Link : https://sohan9819.github.io/
+Portfolio Link : https://snickerdev.netlify.app/
 
 
 - 🌱 I’m currently learning Django and DSA .
