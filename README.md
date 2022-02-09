@@ -13,7 +13,7 @@ Portfolio Link : https://snickerdev.netlify.app/
   * gmail : sohanshetty2001@gmail.com
   * twitter : https://twitter.com/SnickerDev?s=08
   * linkedin : https://www.linkedin.com/in/sohan-shetty-8ab3191a0
-- ⚡ Fun fact: The first computer virus was created in 1983.
+- ⚡ Fun fact: There are around 700 separate programming languages .
 
 
 
