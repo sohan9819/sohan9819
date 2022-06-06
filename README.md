@@ -13,8 +13,12 @@ Portfolio Link : https://snickerdev.netlify.app/
   * gmail : sohanshetty2001@gmail.com
   * twitter : https://twitter.com/SnickerDev?s=08
   * linkedin : https://www.linkedin.com/in/sohan-shetty-8ab3191a0
+  * instagram : https://instagram.com/__snicker__2001
 - ⚡ Fun fact: There are around 700 separate programming languages .
 
+My recent blogs
+- [Curry Functions](https://snciker.hashnode.dev/curry-functions)
+- [Javascript Closures](https://hashnode.com/post/javascript-closures-cl32plc2k01fljjnvej3pbcy6)
 
 
 <!--
