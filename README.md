@@ -1,22 +1,40 @@
-### Hi there 👋
-
+<h1 align="center">Hi there👋, I'm <a href="https://snickerdev.netlify.app/">Sohan</a>!</h1>
 
 ![2021-06-04 23-15-30_Trim](https://user-images.githubusercontent.com/64985447/120843980-62495b00-c58c-11eb-81af-0255b7391495.gif)
 
-Portfolio Link : https://snickerdev.netlify.app/
 
+```js
+const name = 'Sohan';
 
-- 🌱 I’m currently learning Django and DSA .
-- 👯 I’m looking to collaborate on some Django or some frontend development project .
-- 📫 How to reach me : 
-  * github : https://github.com/sohan9819
-  * gmail : sohanshetty2001@gmail.com
-  * twitter : https://twitter.com/SnickerDev?s=08
-  * linkedin : https://www.linkedin.com/in/sohan-shetty-8ab3191a0
-  * instagram : https://instagram.com/__snicker__2001
-- ⚡ Fun fact: There are around 700 separate programming languages .
+Developer dev = new Developer(name);
 
-My recent blogs
+while(dev.isCoding())
+{
+  dev.listenToMusic();
+  dev.openStackOverFlow();
+  dev.referDocumentation();
+  dev.drinkWater();
+  dev.drinkCoffee();
+}
+```
+
+<p align="center">Check out my <a href="https://snickerdev.netlify.app/">portfolio website</a> to get to know my tech stack and some other cool stuff.</p>
+
+---
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sohan9819"><img src="https://github-readme-stats.vercel.app/api?username=sohan9819&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sashaboi's GitHub stats" /></a>
+
+<a href="http://www.github.com/sohan9819"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sohan9819&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/sohan9819"><img src="https://activity-graph.herokuapp.com/graph?username=sohan9819&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<!--
+<a href="https://github.com/sohan9819" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan9819&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->
+
+---
+<b>My recent blogs </b>
 - [Curry Functions](https://snciker.hashnode.dev/curry-functions)
 - [Javascript Closures](https://hashnode.com/post/javascript-closures-cl32plc2k01fljjnvej3pbcy6)
 
@@ -37,5 +55,11 @@ Here are some ideas to get you started:
 -->
 
 ---
+<p align="center">Feel free reaching out to me at following platforms:</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohan9819&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://www.linkedin.com/in/tomschmelzer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.instagram.com/__snicker__2001"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href="https://twitter.com/SnickerDev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:sohanshetty2001@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
