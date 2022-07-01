@@ -62,4 +62,5 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/__snicker__2001"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href="https://twitter.com/SnickerDev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:sohanshetty2001@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/sohan9819"><img src="https://img.shields.io/badge/Github-010409?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
