@@ -1,4 +1,6 @@
-<h1 align="center">Hi there👋, I'm <a href="https://snickerdev.netlify.app/">Sohan</a>!</h1>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm <a href="https://snickerdev.netlify.app/">Sohan</a>!</h1>
 
 ![2021-06-04 23-15-30_Trim](https://user-images.githubusercontent.com/64985447/120843980-62495b00-c58c-11eb-81af-0255b7391495.gif)
 
