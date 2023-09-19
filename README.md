@@ -67,4 +67,3 @@ Here are some ideas to get you started:
   <a href="https://github.com/sohan9819"><img src="https://img.shields.io/badge/Github-010409?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-![Snake animation](https://github.com/sohan9819/lukemorales/blob/output/github-contribution-grid-snake.svg)
