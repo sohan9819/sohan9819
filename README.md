@@ -4,7 +4,6 @@
 
 ![2021-06-04 23-15-30_Trim](https://user-images.githubusercontent.com/64985447/120843980-62495b00-c58c-11eb-81af-0255b7391495.gif)
 
-
 ```js
 const name = 'Sohan';
 
@@ -23,6 +22,7 @@ while(dev.isCoding())
 <p align="center">Check out my <a href="https://snickerdev.netlify.app/">portfolio website</a> to get to know my tech stack and some other cool stuff.</p>
 
 ---
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sohan9819"><img src="https://github-readme-stats.vercel.app/api?username=sohan9819&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sashaboi's GitHub stats" /></a>
@@ -38,10 +38,11 @@ while(dev.isCoding())
 -->
 
 ---
+
 <b>My recent blogs </b>
+
 - [Curry Functions](https://snciker.hashnode.dev/curry-functions)
 - [Javascript Closures](https://hashnode.com/post/javascript-closures-cl32plc2k01fljjnvej3pbcy6)
-
 
 <!--
 **sohan9819/sohan9819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,6 +60,7 @@ Here are some ideas to get you started:
 -->
 
 ---
+
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
 <p align="center">
@@ -68,4 +70,3 @@ Here are some ideas to get you started:
   <a href="mailto:sohanshetty2001@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/sohan9819"><img src="https://img.shields.io/badge/Github-010409?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
